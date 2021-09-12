@@ -9,6 +9,6 @@ Completed:
 - [x] JSON over HTTP Server
 - [x] Protobuf definitions
 - [x] Read/Append file IO
-- [ ] Serve requests with gRPC
+- [x] Serve requests with gRPC
 - [ ] Secure services
 - [ ] Telemetry
