@@ -11,4 +11,7 @@ Completed:
 - [x] Read/Append file IO
 - [x] Serve requests with gRPC
 - [x] Secure services
-- [ ] Telemetry
+- [x] Telemetry
+- [ ] Server-to-server Service Discovery
+- [ ] Service Coordination via Consensus
+- [ ] Load Balancing
