@@ -10,5 +10,5 @@ Completed:
 - [x] Protobuf definitions
 - [x] Read/Append file IO
 - [x] Serve requests with gRPC
-- [ ] Secure services
+- [x] Secure services
 - [ ] Telemetry
